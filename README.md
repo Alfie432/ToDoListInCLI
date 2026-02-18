@@ -1,7 +1,7 @@
 # The program is a To Do List on the CLI in C
 
 - It has adding task, reading task, and deleting task functionality
-- Uses clean modular code to match industry standard
+- Uses clean modular code to meet industry standard and remain readable
 
 To run the code:
 
